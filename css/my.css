@@ -1,0 +1,76 @@
+.mymaincontainer {
+
+    display: flex;
+    margin-top: 110px;
+    /* border: 10px solid #ff0000; */
+    height: 90vh;
+
+}
+
+body {
+    /* height: 50vh; */
+    background: url("../img/home-slider/slider-bg-1.png") repeat-x;
+}
+
+.word {
+    /* border: 5px solid red; */
+    margin-top: 2vh;
+    margin-bottom: auto;
+    margin-left: 5vw;
+
+    width: fit-content;
+    height: fit-content;
+}
+
+
+.myimage {
+    width: 45vw;
+}
+
+
+.myfrontpic {
+
+    /* border: 10px solid red; */
+    height: 80vh;
+    width: 35vw;
+    /* display: flex; */
+    margin-top: 4vh;
+    margin-left: auto;
+    padding-left: auto;
+    margin-right: 0;
+
+
+
+}
+
+.myfrontimage {
+    width: 20vw;
+}
+
+    
+    
+
+.ytb{
+    width: 12vw;
+    height: 8vh;
+    background-color: #f9004d;
+	color: white;
+	text-decoration: none;
+	border: 2px solid transparent;
+	font-weight: bold;
+	padding: 1.2vh;
+	border-radius: 50px;
+	transition: transform .4s;
+    position: absolute;
+    bottom: 0;
+    margin-left: 19vw;
+    margin-bottom: 4vh;
+    text-align:center;
+    font-size: 3vh;
+
+    
+}
+.ytb:hover {
+	transform: scale(1.08);
+    color: #000;
+}

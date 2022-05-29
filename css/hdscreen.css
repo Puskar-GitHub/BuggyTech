@@ -1,0 +1,65 @@
+.btlogonav {
+    width: 50vw;
+}
+
+.myfrontpic{
+    
+    display: none;  
+}
+
+.mycaption{
+    margin: 0vh 1vh auto 1vh;
+        /* border: 5px solid green; */
+    width: fit-content;
+    height: fit-content
+}
+
+
+.mymaincontainer {
+
+    display: flex;
+    margin-top: 110px;
+    /* border: 10px solid #ff0000; */
+    height: 80vh;
+
+}
+
+.word {
+    /* border: 5px solid red; */
+    margin-top: 2vh;
+    margin-bottom: auto;
+    margin-left: 0vw;
+    margin-right: 0vw;
+
+    width:fit-content;
+    height: fit-content;
+}
+
+.myimage {
+    width: 99vw;
+}
+
+.ytb{
+    width: 35vw;
+    height: 9vh;
+    background-color: #f9004d;
+	color: white;
+	text-decoration: none;
+	border: 2px solid transparent;
+	font-weight: bold;
+	padding: 1.5vh;
+	border-radius: 60px;
+	transition: transform .4s;
+    position: absolute;
+    bottom: 0;
+    left: auto;
+    right: auto;
+    margin-left: 32%;
+    margin-right: 32%;
+
+    margin-bottom: 10vh;
+    text-align:center;
+    font-size: 3vh;
+
+    
+}
